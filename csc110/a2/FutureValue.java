@@ -1,11 +1,3 @@
-/*
- * Name: Eric Yvorchuk
- * ID: V00864667
- * Date: September 28th 2016
- * Filename: FutureValue.java
- * Details: CSC 110 Assignment 2
-*/
-
 import java.util.Scanner;
 import java.text.DecimalFormat;
 

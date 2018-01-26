@@ -1,11 +1,3 @@
-/* 
- * Name: Eric Yvorchuk
- * ID: V00864667
- * Date: January 16th 2017
- * Filename: PhoneNumberList.java
- * Details: CSC 115 Assignment 1
-*/
-
 public class PhoneNumberList {
 	private static final int INITIAL_SIZE = 2;
 

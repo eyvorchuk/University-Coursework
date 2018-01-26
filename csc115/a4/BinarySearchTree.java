@@ -1,13 +1,5 @@
 import java.util.*;
 
-/* 
- * Name: Eric Yvorchuk
- * ID: V00864667
- * Date: March 28th 2017
- * Filename: BinarySearchTree.java
- * Details: CSC 115 Assignment 4
-*/
-
 //
 // An implementation of a binary search tree.
 //

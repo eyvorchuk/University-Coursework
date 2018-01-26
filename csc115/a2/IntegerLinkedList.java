@@ -1,11 +1,3 @@
-/*
- * Name: Eric Yvorchuk
- * Student Number: V00864667
- * Date: February 12th 2017
- * Filename: IntegerLinkedList.java
- * Details: CSC 115 Assignment 2
-*/
-
 public class IntegerLinkedList implements IntegerList {
 	IntegerNode head;
 	IntegerNode tail;

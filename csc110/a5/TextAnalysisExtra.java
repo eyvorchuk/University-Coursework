@@ -1,11 +1,3 @@
-/*
- * Name: Eric Yvorchuk
- * ID: V00864667
- * Date: November 3rd 2016
- * Filename: TextAnalysisExtra.java
- * Details: CSC110 Assignment 5
-*/
-
 import java.util.*;
 import java.io.*;
 

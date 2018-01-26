@@ -1,11 +1,3 @@
-/*
- * Name: Eric Yvorchuk
- * ID: V00864667
- * Date: September 22nd 2016
- * Filename: AsciiEagleExtra.java
- * Details: CSC110 Assignment 1
-*/
-
 /* 
  * The class AsciiEagleExtra contains methods
  * for the upper and lower eagle sections and for 

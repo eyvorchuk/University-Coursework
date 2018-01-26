@@ -1,11 +1,3 @@
-/*
- * Name: Eric Yvorchuk
- * ID: V00864667
- * Date: October 11th 2016
- * Filename: CalendarCanada.java
- * Details: CSC110 Assignment 3
-*/
-
 import java.util.*;
 
 /*

@@ -1,11 +1,3 @@
-/*
- * Name: Eric Yvorchuk
- * ID: V00864667
- * Date: September 20th 2016
- * Filename: AsciiEagle.java
- * Details: CSC110 Assignment 1
-*/
-
 /* The class AsciiEagle contains a drawing 
  * of the American Eagle using keyboard symbols.
  * This class includes two separate methods for the

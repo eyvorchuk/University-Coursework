@@ -1,9 +1,3 @@
-Name: Eric Yvorchuk
-ID: V00864667
-Date: March 28th 2017
-Filename: performance.txt
-Details: CSC 115 Assignment 4
-
 Linked
 ======
 

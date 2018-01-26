@@ -1,11 +1,3 @@
-/* 
- * Name: Eric Yvorchuk
- * ID: V00864667
- * Date: February 22nd 2017
- * Filename: StackRefBased.java
- * Details: CSC 115 Assignment 3
-*/
-
 public class StackRefBased<T> implements Stack<T> {
     StackNode<T> top;
 

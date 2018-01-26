@@ -1,13 +1,5 @@
 import java.util.*;
 
-/* 
- * Name: Eric Yvorchuk
- * ID: V00864667
- * Date: March 28th 2017
- * Filename: BSTMap.java
- * Details: CSC 115 Assignment 4
-*/
-
 public class BSTMap<K extends Comparable<K>, V > implements  Map<K, V>  {
 	BinarySearchTree<K,V> tree;
 

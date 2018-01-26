@@ -1,11 +1,3 @@
-/*
- * Name: Eric Yvorchuk
- * ID: V00864667
- * Date: September 30th 2016
- * Filename: EagleSpeaksExtra.java
- * Details: CSC 110 Assignment 2
-*/
-
 import java.util.Scanner;
 
 /*

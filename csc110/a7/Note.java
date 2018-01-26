@@ -1,12 +1,4 @@
 /*
- * Name: Eric Yvorchuk
- * ID: V00864667
- * Date: December 1st 2016
- * Filename: Note.java
- * Details: CSC110 Assignment 7
-*/
-
-/*
  * The class Note is used as
  * the basis for creating note
  * objects based on what is read from

@@ -1,11 +1,3 @@
-/* 
- * Name: Eric Yvorchuk
- * ID: V00864667
- * Date: February 22nd 2017
- * Filename: MazeSolver.java
- * Details: CSC 115 Assignment 3
-*/
-
 /*
  * The class MazeSolver contains a method for
  * finding a path of coordinates from the entrance

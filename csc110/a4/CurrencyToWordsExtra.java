@@ -1,11 +1,3 @@
-/*
- * Name: Eric Yvorchuk
- * ID: V00864667
- * Date: October 21st 2016
- * Filename: CurrencyToWordsExtra.java
- * Details: CSC110 Assignment 4
-*/
-
 import java.util.*;
 
 /* 

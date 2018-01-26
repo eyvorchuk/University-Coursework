@@ -1,11 +1,3 @@
-/* 
- * Name: Eric Yvorchuk
- * ID: V00864667
- * Date: January 16th 2017
- * Filename: Contact.java
- * Details: CSC 115 Assignment 1
-*/
-
 public class Contact {
 	private String name;
 	private PhoneNumberList	numbers;

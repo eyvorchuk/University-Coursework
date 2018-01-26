@@ -1,11 +1,3 @@
-/* 
- * Name: Eric Yvorchuk
- * ID: V00864667
- * Date: September 20th 2016
- * Filename: FloorArea.java
- * Details: CSC110 Assignment 1
-*/ 
-
 /*
  * The class FloorArea contains variables
  * and formulae to calculate the total area 

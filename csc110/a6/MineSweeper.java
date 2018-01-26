@@ -1,11 +1,3 @@
-/*
- * Name: Eric Yvorchuk
- * ID: V00864667
- * Date: November 20th 2016
- * Filename: MineSweeper.java
- * Details: CSC110 Assignment 6
-*/
-
 import java.util.*;
 
 /* 

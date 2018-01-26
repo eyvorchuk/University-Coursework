@@ -1,11 +1,3 @@
-/*
- * Name: Eric Yvorchuk
- * ID: V00864667
- * Date: December 1st 2016
- * Filename: TransposeSong.java
- * Details: CSC110 Assignment 7
-*/
-
 import java.util.*;
 import java.io.*;
 
