@@ -1,0 +1,33 @@
+tempo 120
+voices 1
+title Row, Row, Row Your Boat
+
+instrument vox
+notes 27
+g^3 4.
+g^3 4.
+g^3 4
+a^3 8
+c4 4.
+c4 4
+a^3 8
+c4 4
+d_4 8
+d^4 2.
+g^4 8
+g^4 8
+g^4 8
+d^4 8
+d^4 8
+d^4 8
+c4 8
+c4 8
+c4 8
+g^3 8
+g^3 8
+g^3 8
+d^4 4
+d_4 8
+c4 4
+a^3 8
+g^3 2.

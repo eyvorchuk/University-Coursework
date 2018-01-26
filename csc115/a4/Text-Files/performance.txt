@@ -1,0 +1,63 @@
+Name: Eric Yvorchuk
+ID: V00864667
+Date: March 28th 2017
+Filename: performance.txt
+Details: CSC 115 Assignment 4
+
+Linked
+======
+
+10
+put loop count: 45
+get loop count: 100
+100
+put loop count: 4950
+get loop count: 10000
+1,000
+put loop count: 499500
+get loop count: 1000000
+10,000
+put loop count: 49995000
+get loop count: 100000000
+100,000
+put loop count: 704982704
+get loop count: 1409766194
+300,000
+put loop count: 2047814964
+get loop count: -201095654
+
+Binary Search Tree
+==================
+
+10
+put loop count: 22
+get loop count: 38
+100
+put loop count: 588
+get loop count: 800
+1,000
+put loop count: 11254
+get loop count: 13414
+10,000
+put loop count: 150706
+get loop count: 170706
+100,000
+put loop count: 2196667
+get loop count: 2395468
+300,000
+put loop count: 6507175
+get loop count: 7105625
+1,000,0000
+put loop count: 24375742
+get loop count: 26386374
+
+Questions
+=========
+
+1) Approximately how long did it take your computer to run the test for 300,000 iterations on the linked implementation?
+Approximately eight minutes.
+
+2) What is the maximum value you can run the binary search tree implementation for and have it finish in less than a few seconds?
+Approximately 1810000 (finished in just under five seconds).
+ 
+ 

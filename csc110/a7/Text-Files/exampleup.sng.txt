@@ -1,0 +1,10 @@
+tempo 120
+voices 1
+title O Canada
+
+instrument soprano
+notes 4
+b4 2
+d5 4.
+d5 8
+g4 2.
